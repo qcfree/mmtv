@@ -337,6 +337,33 @@ CCTV电视指南 ,http://yzfvip.top:8002/rtp/239.253.43.19:5146$超清电01
 
 梨园频道 ,https://pi.0472.org/tv/hn.php?id=154
 
+CCTV-1综合	,https://cntv.sbs/tv?auth=230830&id=cctv1$范明明
+CCTV-2财经	,https://cntv.sbs/tv?auth=230830&id=cctv2$范明明
+CCTV-3综艺	,https://cntv.sbs/tv?auth=230830&id=cctv3$范明明
+CCTV-4中文国际	,https://cntv.sbs/tv?auth=230830&id=cctv4$范明明
+CCTV-5体育	,https://cntv.sbs/tv?auth=230830&id=cctv5$范明明
+CCTV-5+体育赛事	,https://cntv.sbs/tv?auth=230830&id=cctv5p$范明明
+CCTV-6电影	,https://cntv.sbs/tv?auth=230830&id=cctv6$范明明
+CCTV-7国防军事	,https://cntv.sbs/tv?auth=230830&id=cctv7$范明明
+CCTV-8电视剧	,https://cntv.sbs/tv?auth=230830&id=cctv8$范明明
+CCTV-9纪录	,https://cntv.sbs/tv?auth=230830&id=cctv9$范明明
+CCTV-10科教	,https://cntv.sbs/tv?auth=230830&id=cctv10$范明明
+CCTV-11戏曲	,https://cntv.sbs/tv?auth=230830&id=cctv11$范明明
+CCTV-12社会与法	,https://cntv.sbs/tv?auth=230830&id=cctv12$范明明
+CCTV-13新闻	,https://cntv.sbs/tv?auth=230830&id=cctv13$范明明
+CCTV-14少儿	,https://cntv.sbs/tv?auth=230830&id=cctv14$范明明
+CCTV-15音乐	,https://cntv.sbs/tv?auth=230830&id=cctv15$范明明
+CCTV-16奥林匹克	,https://cntv.sbs/tv?auth=230830&id=cctv16$范明明
+CCTV-17农业农村	,https://cntv.sbs/tv?auth=230830&id=cctv17$范明明
+CCTV-4K超高清	,https://cntv.sbs/tv?auth=230830&id=cctv4k$范明明
+CCTV-164K	,https://cntv.sbs/tv?auth=230830&id=cctv164k$范明明
+
+CETV1	,https://cntv.sbs/tv?auth=230830&id=cetv1$范明明
+CETV2	,https://cntv.sbs/tv?auth=230830&id=cetv2$范明明
+CETV3	,http://txycetvbl.centv.cn/cetv3/bjdm.m3u8$范明明
+CETV4	,https://cntv.sbs/tv?auth=230830&id=cetv4$范明明
+梨园频道	,https://pi.0472.org/tv/hn.php?id=154$范明明
+中国天气	,https://cntv.sbs/tv?auth=230830&id=zgtq$范明明
 🇨🇳｜卫视频道,#genre#
 
 北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8$超清移动
@@ -620,6 +647,104 @@ CCTV电视指南 ,http://yzfvip.top:8002/rtp/239.253.43.19:5146$超清电01
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8$高清
 三沙卫视,https://cntv.sbs/tv?auth=230830&id=ssws$超清明明
 
+北京卫视	,https://cntv.sbs/tv?auth=230830&id=bjws$范明明
+东方卫视	,https://cntv.sbs/tv?auth=230830&id=dfws$范明明
+天津卫视	,https://cntv.sbs/tv?auth=230830&id=tjws$范明明
+重庆卫视	,https://cntv.sbs/tv?auth=230830&id=cqws$范明明
+黑龙江卫视	,https://cntv.sbs/tv?auth=230830&id=hljws$范明明
+吉林卫视	,https://cntv.sbs/tv?auth=230830&id=jlws$范明明
+辽宁卫视	,https://cntv.sbs/tv?auth=230830&id=lnws$范明明
+内蒙古卫视	,https://cntv.sbs/tv?auth=230830&id=nmws$范明明
+宁夏卫视	,https://cntv.sbs/tv?auth=230830&id=nxws$范明明
+甘肃卫视	,https://cntv.sbs/tv?auth=230830&id=gsws$范明明
+青海卫视	,https://cntv.sbs/tv?auth=230830&id=qhws$范明明
+陕西卫视	,https://cntv.sbs/tv?auth=230830&id=sxws$范明明
+河北卫视	,https://cntv.sbs/tv?auth=230830&id=hbws$范明明
+山西卫视	,https://cntv.sbs/tv?auth=230830&id=sxiws$范明明
+山东卫视	,https://cntv.sbs/tv?auth=230830&id=sdws$范明明
+安徽卫视	,https://cntv.sbs/tv?auth=230830&id=ahws$范明明
+河南卫视	,https://cntv.sbs/tv?auth=230830&id=hnws$范明明
+湖北卫视	,https://cntv.sbs/tv?auth=230830&id=hubws$范明明
+湖南卫视	,https://cntv.sbs/tv?auth=230830&id=hunws$范明明
+江西卫视	,https://cntv.sbs/tv?auth=230830&id=jxws$范明明
+江苏卫视	,https://cntv.sbs/tv?auth=230830&id=jsws$范明明
+浙江卫视	,https://cntv.sbs/tv?auth=230830&id=zjws$范明明
+东南卫视	,https://cntv.sbs/tv?auth=230830&id=dnws$范明明
+厦门卫视	,https://cntv.sbs/tv?auth=230830&id=xmws$范明明
+广东卫视	,https://cntv.sbs/tv?auth=230830&id=gdws$范明明
+深圳卫视	,https://cntv.sbs/tv?auth=230830&id=szws$范明明
+广西卫视	,https://cntv.sbs/tv?auth=230830&id=gxws$范明明
+云南卫视	,https://cntv.sbs/tv?auth=230830&id=ynws$范明明
+贵州卫视	,https://cntv.sbs/tv?auth=230830&id=gzws$范明明
+四川卫视	,https://cntv.sbs/tv?auth=230830&id=scws$范明明
+康巴卫视	,https://cntv.sbs/tv?auth=230830&id=kbws$范明明
+新疆卫视	,https://cntv.sbs/tv?auth=230830&id=xjws$范明明
+兵团卫视	,https://cntv.sbs/tv?auth=230830&id=btws$范明明
+西藏卫视	,https://cntv.sbs/tv?auth=230830&id=xzws$范明明
+海南卫视	,https://cntv.sbs/tv?auth=230830&id=hinws$范明明
+三沙卫视	,https://cntv.sbs/tv?auth=230830&id=ssws$范明明
+海峡卫视	,https://cntv.sbs/tv?auth=230830&id=hxws$范明明
+北京纪实科教	,https://cntv.sbs/tv?auth=230830&id=bjjskj$范明明
+
+上海,#genre#
+
+五星体育	,https://cntv.sbs/tv?auth=230830&id=wxty$范明明
+东方财经	,https://cntv.sbs/tv?auth=230830&id=dfcj$范明明
+第一财经	,https://cntv.sbs/tv?auth=230830&id=dycj$范明明
+哈哈炫动	,https://cntv.sbs/tv?auth=230830&id=hhxd$范明明
+法治天地	,https://cntv.sbs/tv?auth=230830&id=fztd$范明明
+欢笑剧场	,https://cntv.sbs/tv?auth=230830&id=hxjc$范明明
+都市剧场	,https://cntv.sbs/tv?auth=230830&id=dsjc$范明明
+上海新闻综合	,https://cntv.sbs/tv?auth=230830&id=shxwzh$范明明
+上海都市	,https://cntv.sbs/tv?auth=230830&id=shds$范明明
+上海ICS外语	,https://cntv.sbs/tv?auth=230830&id=shics$范明明
+纪实人文	,https://cntv.sbs/tv?auth=230830&id=shjsrw$范明明
+七彩戏剧	,https://cntv.sbs/tv?auth=230830&id=qcxj$范明明
+上海教育	,https://cntv.sbs/tv?auth=230830&id=shjy$范明明
+
+数字,#genre#
+
+动漫秀场	,https://cntv.sbs/tv?auth=230830&id=dmxc$范明明
+劲爆体育	,https://cntv.sbs/tv?auth=230830&id=jbty$范明明
+新视觉	,https://cntv.sbs/tv?auth=230830&id=xsj$范明明
+游戏风云	,https://cntv.sbs/tv?auth=230830&id=yxfy$范明明
+生活时尚	,https://cntv.sbs/tv?auth=230830&id=shss$范明明
+金色学堂	,https://cntv.sbs/tv?auth=230830&id=jspd$范明明
+乐游	,https://cntv.sbs/tv?auth=230830&id=qjs$范明明
+魅力足球	,https://cntv.sbs/tv?auth=230830&id=mlzq$范明明
+
+茶频道	,https://cntv.sbs/tv?auth=230830&id=cpd$范明明
+
+湖南,#genre#
+快乐垂钓	,https://cntv.sbs/tv?auth=230830&id=klcd$范明明
+金鹰纪实	,https://cntv.sbs/tv?auth=230830&id=jyjs$范明明
+金鹰卡通	,https://cntv.sbs/tv?auth=230830&id=jykt$范明明
+嘉佳卡通	,https://cntv.sbs/tv?auth=230830&id=jjkt$范明明
+财富天下	,https://cntv.sbs/tv?auth=230830&id=cftx$范明明
+
+福建,#genre#
+
+福建综合	,https://cntv.sbs/tv?auth=230830&id=fjzh$范明明
+福建新闻	,https://cntv.sbs/tv?auth=230830&id=fjxw$范明明
+福建电视剧	,https://cntv.sbs/tv?auth=230830&id=fjdsj$范明明
+福建文体	,https://cntv.sbs/tv?auth=230830&id=fjwt$范明明
+福建少儿	,https://cntv.sbs/tv?auth=230830&id=fjse$范明明
+福建旅游	,https://cntv.sbs/tv?auth=230830&id=fjly$范明明
+福建经济	,https://cntv.sbs/tv?auth=230830&id=fjjj$范明明
+福建公共	,https://cntv.sbs/tv?auth=230830&id=fjgg$范明明
+福建教育	,https://cntv.sbs/tv?auth=230830&id=fjjy$范明明
+
+浙江,#genre#
+
+浙江公共新闻	,http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8$范明明
+浙江国际	,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8$范明明
+浙江少儿	,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$范明明
+浙江教科影视	,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8$范明明
+浙江数码时代	,http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8$范明明
+浙江民生休闲	,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8$范明明
+浙江经济生活	,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8$范明明
+浙江钱江频道	,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8$范明明
+
 其他+4K,#genre#
 Channel [V],http://live.hust.edu.cn/hls/channelv.m3u8
 Channel [V],http://r.jdshipin.com/dMphc
@@ -694,6 +819,19 @@ CHC高清电影   ,http://pi.0472.org/tv/cbn.php?id=chcgqdyHD$超清明明
 华数电视剧,http://39.134.32.102:6610/270000001111/1110000333/index.m3u8?IASHttpSessionId=OTT
 
 🇨🇳｜港澳台湾,#genre#
+
+凤凰中文	,https://cntv.sbs/tv/cbn.php?id=xfjcHD$范明明
+凤凰资讯	,https://$范明明
+凤凰香港	,https://$范明明
+翡翠台	,https://pi.0472.org/tv/fct.php$范明明
+明珠台	,https://pi.0472.org/tv/mzt.php$范明明
+澳视澳门	,https://pi.0472.org/tv/asam.php$范明明
+澳亚卫视	,https://pi.0472.org/tv/aoya.php$范明明
+香港卫视	,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8$范明明
+RTHK32	,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8$范明明
+J2台	,https://$范明明
+莲花卫视	,https://cntv.sbs/tv/lhws.php$范明明
+
 莲花卫视,https://cntv.sbs/tv/lhws.php
 凤凰中文,http://111.20.40.166:80/PLTV/88888893/224/3221226547/index.m3u8$春盈极速
 凤凰中文,http://tv.live.cbnbn.cn/__cl/cg:live/__c/xfjcHD/__op/default/__f/index.m3u8?sig=a1a474753e09e18759092dcb92fb0ee0&ext_start_limit=1693535649&int_start_limit=1693535649&expires=1693535649&c=null$春盈观察
@@ -1030,6 +1168,86 @@ RTHK33,http://sc2022.stream-link.org/tv2306.php?id=h10$范明明
 香港国际财经台,http://sc2022.stream-link.org/tv2306.php?id=h12$范明明
 香港开电视,http://sc2022.stream-link.org/tv2306.php?id=h13$范明明
 香港开电视资讯台,http://sc2022.stream-link.org/tv2306.php?id=h14$范明明
+
+世界,#genre#
+
+CGTN	,https://cntv.sbs/tv?auth=230830&id=cgtn$范明明
+CGTN记录	,https://livedoc.cgtn.com/500d/prog_index.m3u8$范明明
+CGTN俄语	,https://liveru.cgtn.com/1000r/prog_index.m3u8$范明明
+CGTN法语	,https://livefr.cgtn.com/1000f/prog_index.m3u8$范明明
+CGTN西语	,https://livees.cgtn.com/1000e/prog_index.m3u8$范明明
+CGTN阿语	,https://livear.cgtn.com/1000a/prog_index.m3u8$范明明
+NHKWORLD	,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8$范明明
+亚洲新闻	,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$范明明
+半岛新闻	,http://live-hls-web-aja.getaj.net/AJA/02.m3u8$范明明
+ThaiPBS3	,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8$范明明
+LoveNature4K	,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8$范明明
+FASHIONTV	,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8$范明明
+金砖电视	,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8$范明明
+无线新闻台	,https://$范明明
+无线财经台	,https://$范明明
+NOW新闻台	,https://$范明明
+香港国际财经台	,https://$范明明
+RTHK31	,https://$范明明
+亚洲新闻720P	,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8$范明明
+亚洲新闻1080P	,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8$范明明
+人间卫视	,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8$范明明
+日·QVC	,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8$范明明
+韩·BBS佛教	,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8$范明明
+韩·EBS-1	,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8$范明明
+韩·EBS-1	,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8$范明明
+韩·EBS-1	,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8$范明明
+韩·EBS-2	,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8$范明明
+韩·EBS-2	,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8$范明明
+韩·EBS少儿	,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8$范明明
+韩·KBC	,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8$范明明
+韩·SBS	,http://1.245.74.5:1935/live/tv/.m3u8$范明明
+韩·阿里郎	,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8$范明明
+韩·阿里郎WORLD	,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8$范明明
+韩·HotPlusTV	,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8$范明明
+VB	,http://live.tv2bornholm.dk/stream/live/chunklist.m3u8$范明明
+俄·IGITV蓝光	,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8$范明明
+俄·RBC(Opt-1)[996*560]	,http://92.50.128.180/utv/1358/index.m3u8$范明明
+美·NASAPublicChannel	,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8$范明明
+美·NASAPublicChannel	,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8$范明明
+美·红牛运动	,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8$范明明
+美·红牛运动	,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8$范明明
+乌·M2音乐	,http://live.m2.tv/hls3/stream.m3u8$范明明
+西·加利西亚欧洲体育电视台	,http://europa-crtvg.flumotion.com/playlist.m3u8$范明明
+希·FoxTV	,http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8$范明明
+越·HBTV	,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8$范明明
+番薯	,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8$范明明
+耀才财经	,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8$范明明
+耀才财经	,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8$范明明
+ABC新闻	,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8$范明明
+NewsmaxTV	,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8$范明明
+PBSAmerica	,https://pbs-samsunguk.amagi.tv/playlist.m3u8$范明明
+moviesphere	,https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8$范明明
+EdgeSport	,https://edgesport-samsunguk.amagi.tv/playlist.m3u8$范明明
+CanadaOne	,http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8$范明明
+CA	,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8$范明明
+InsightTV	,https://insighttv-samsung-canada.amagi.tv/playlist.m3u8$范明明
+Astrakhan24(Opt-2)	,http://streaming.astrakhan.ru/astrakhan24/index.m3u8$范明明
+Самара	,http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8$范明明
+Comedy	,http://51.210.199.27/hls/stream.m3u8$范明明
+Documentary	,http://51.210.199.23/hls/stream.m3u8$范明明
+Family	,http://51.210.199.19/hls/stream.m3u8$范明明
+Iranian	,http://51.210.199.22/hls/stream.m3u8$范明明
+Music	,http://51.210.199.24/hls/stream.m3u8$范明明
+Nostalgia	,http://51.210.199.20/hls/stream.m3u8$范明明
+韩国-Arirang	,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8$范明明
+韩国-EBS1	,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8$范明明
+韩国-EBS2	,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8$范明明
+韩国-EBSe	,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8$范明明
+韩国-KCTV	,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8$范明明
+韩国-MBC综合频道	,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8$范明明
+韩国-NBSKoreaAgriculturalBroadc	,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8$范明明
+日本购物1	,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8$范明明
+伊拉克-SharqiyaNews	,http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8$范明明
+日本ShopChannel	,https://stream3.shopch.jp/HLS/master.m3u8$范明明
+长城精品	,http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8$范明明
+香港佛陀	,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8$范明明
+儒释道经	,https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b$范明明
 
 欢乐剧场,#genre#
 古装剧场,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/1.m3u8#http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/1.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225678/index.m3u8
