@@ -803,6 +803,9 @@ CHC动作电影   ,http://pi.0472.org/tv/cbn.php?id=chcdzdyHD$超清明明
 CHC家庭影院   ,http://pi.0472.org/tv/cbn.php?id=chcjtyyHD$超清明明
 CHC高清电影   ,http://pi.0472.org/tv/cbn.php?id=chcgqdyHD$超清明明
 
+CHC动作电影	,http://cntv.sbs/tv/cbn.php?id=chcdzdyHD$范明明
+CHC家庭影院	,http://cntv.sbs/tv/cbn.php?id=chcjtyyHD$范明明
+CHC高清电影	,http://cntv.sbs/tv/cbn.php?id=chcgqdyHD$范明明
 甘肃,#genre#
 甘肃卫视,http://39.134.32.102:6610/270000001111/1110000322/index.m3u8?IASHttpSessionId=OTT
 甘肃文化影视,http://39.134.32.102:6610/270000001111/1110000323/index.m3u8?IASHttpSessionId=OTT
@@ -4731,54 +4734,6 @@ orange,http://epg.112114.xyz/douyu/4549169
 林正英系列,https://v.gsuus.com/play/NbWWEEby/index.m3u8$妖怪都市
 林正英系列,https://vip.ffzy-play6.com/20221112/6296_32b14901/index.m3u8$鬼打鬼之黄金道士
 林正英系列,https://vip.kuaikan-cdn3.com/20230709/XChUSCQ2/index.m3u8$灵幻先生
-
-林正英(高清),https://vd2.bdstatic.com/mda-ncv2mj02vxhjcp4x/480p/h264_delogo/1648605267123060003/mda-ncv2mj02vxhjcp4x.mp4
-林正英-第01部,https://50069.njc.svp.tencent-cloud.com/0b78uyaaoaaahqapjfqfwfqvbjwda6taabya.f10002.mp4
-林正英-第02部,https://50069.njc.svp.tencent-cloud.com/0bc3uuabyaaagmahv4c745rfbjoddssqahaa.f10002.mp4
-林正英-第03部,https://50069.njc.svp.tencent-cloud.com/0bc3reabyaaa24ahktk75frfbcoddseqahaa.f10002.mp4
-林正英-第04部,https://50069.njc.svp.tencent-cloud.com/0bc34mabyaaat4acczda45rfby6ddtrqahaa.f10002.mp4
-林正英-第05部,https://50069.njc.svp.tencent-cloud.com/0bc3zeaagaaafmadc73fjvrfbsodapeqaaya.f10002.mp4
-林正英-第06部,https://50069.njc.svp.tencent-cloud.com/0bc3paab2aaa2qadek3a4frfa6gddv4aahia.f10002.mp4
-林正英-第07部,https://50069.njc.svp.tencent-cloud.com/0bc3duab2aaay4ahc32755rfahodduoqahia.f10003.mp4
-林正英-第08部,https://50069.njc.svp.tencent-cloud.com/0b2e2yaaqaaa2aadclla4rrfbvwdbdlaacaa.f10002.mp4
-林正英-第09部,https://50069.njc.svp.tencent-cloud.com/0bc3miaaaaaaveahir3fmfrfaywdabraaaaa.f10002.mp4
-林正英-第10部,https://50069.njc.svp.tencent-cloud.com/0bc35uab4aaameaf4vta5jrfb3odd3wqahqa.f10002.mp4
-林正英-第11部,https://50069.njc.svp.tencent-cloud.com/0bc3cyab4aaawaaolwla4jrfafwddylaahqa.f10002.mp4
-林正英-第12部,https://50069.njc.svp.tencent-cloud.com/0bc3maabuaaajeaijzk55jrfaygddjqaagqa.f10002.mp4
-林正英-第13部,https://50069.njc.svp.tencent-cloud.com/0bc3mmaaaaaajeag6y3fmfrfay6dabrqaaaa.f10002.mp4
-林正英-第14部,https://50069.njc.svp.tencent-cloud.com/0bc3ziabuaaawealhhs54jrfbswddlfaagqa.f10002.mp4
-林正英-第15部,https://50069.njc.svp.tencent-cloud.com/0bc3amabwaaa4yalto255zrfaa6ddmbqagya.f10002.mp4
-林正英-第16部,https://50069.njc.svp.tencent-cloud.com/0bc3caabuaaapqal5v254nrfaegddiiaagqa.f10002.mp4
-林正英-第17部,https://50069.njc.svp.tencent-cloud.com/0bc3yaabyaaauqaccos74zrfbqgddtaaahaa.f10002.mp4
-林正英-第18部,https://50069.njc.svp.tencent-cloud.com/0b2e4aaacaaaj4aihsdffbrfbygdahqaaaia.f10002.mp4
-林正英-第19部,https://50069.njc.svp.tencent-cloud.com/0bc3qeabwaaae4afr3s74brfbaoddoaqagya.f10002.mp4
-林正英-第20部,https://50069.njc.svp.tencent-cloud.com/0bc3fmabuaaaymakwck545rfak6ddivqagqa.f10002.mp4
-林正英-第21部,https://50069.njc.svp.tencent-cloud.com/0bc32yabuaaazeak7as54jrfbvwddllaagqa.f10002.mp4
-林正英-第22部,https://50069.njc.svp.tencent-cloud.com/0b2e2iaaoaaadmacup262zrfbuwda7jaabya.f10002.mp4
-林正英-第23部,https://50069.njc.svp.tencent-cloud.com/0bc3niabwaaajaafmjc74zrfa2wddnvaagya.f10002.mp4
-林正英-第24部,https://50069.njc.svp.tencent-cloud.com/0bc3gyabwaaaa4aflf2655rfanwddm3aagya.f10003.mp4
-林正英-第25部,https://50069.njc.svp.tencent-cloud.com/0bc35uabuaaauyacw6k665rfb3oddlwqagqa.f10002.mp4
-林正英-第26部,https://50069.njc.svp.tencent-cloud.com/0bc3waabyaaa4iaerzs75zrfbmgddsyaahaa.f10002.mp4
-林正英-第27部,https://50069.njc.svp.tencent-cloud.com/0bc3faabyaaaoqaeko275zrfakgddquaahaa.f10003.mp4
-林正英-第28部,https://50069.njc.svp.tencent-cloud.com/0bc3cmabyaaayeaekpc74zrfae6ddqjqahaa.f10002.mp4
-林正英-第29部,https://50069.njc.svp.tencent-cloud.com/0bc3ruabyaaajiagzhc765rfbdoddsgqahaa.f10003.mp4
-林正英-第30部,https://50069.njc.svp.tencent-cloud.com/0b2e64aaoaaagmafx3k76zrfb56da73qabya.f10002.mp4
-林正英-第31部,https://50069.njc.svp.tencent-cloud.com/0bc3paab2aaavaacyota4zrfa6gddv4aahia.f10002.mp4
-林正英-第32部,https://50069.njc.svp.tencent-cloud.com/0b78j4aaeaaauuadixrl6jqvat6dajhqaaqa.f10002.mp4
-林正英-第33部,https://50069.njc.svp.tencent-cloud.com/0bf2cmaauaaazaadzirl6nqvae6dbijqacqa.f10002.mp4
-林正英-第34部,https://50069.njc.svp.tencent-cloud.com/0bf27yaa2aaaniaap3bl4nqvb7wdbx7aadia.f10004.mp4
-林正英-第35部,https://50069.njc.svp.tencent-cloud.com/0bf254aasaaaoqad6arl6vqvb36dbhxqacia.f10003.mp4
-林正英-第36部,https://50069.njc.svp.tencent-cloud.com/0bf2y4aasaaaleaah7rl6vqvbr6dbhdqacia.f10003.mp4
-林正英-第37部,https://50069.njc.svp.tencent-cloud.com/0b78siaacaaahiaaxrrl7bqvbewdagjaaaia.f10004.mp4
-林正英-第38部,https://50069.njc.svp.tencent-cloud.com/0bf26uaa4aaapaadqmjl4nqvb5odb32qadqa.f10003.mp4
-林正英-第39部,https://50069.njc.svp.tencent-cloud.com/0bf2viaayaaaweadnasq5bqfbkwdbsvaadaa.f10002.mp4
-林正英-第40部,https://50069.njc.svp.tencent-cloud.com/0bf2iiaayaaaduadxb2q2fqfaqwdbrbaadaa.f10002.mp4
-林正英-第41部,https://50069.njc.svp.tencent-cloud.com/0bf2pyaayaaa3uaccucq4vqfa7wdbr7aadaa.f10002.mp4
-林正英-第42部,https://50069.njc.svp.tencent-cloud.com/0bf2iqaa6aaa3ead6d2q3zqfargdb5caadya.f10002.mp4
-林正英-第43部,https://50069.njc.svp.tencent-cloud.com/0bf26uaa4aaaneacnvkq2zqfb5odb32qadqa.f10002.mp4
-林正英-第44部,https://50069.njc.svp.tencent-cloud.com/0bf2zyaayaaapaad3ssq2fqfbtwdbthaadaa.f10002.mp4
-林正英-第45部,https://50069.njc.svp.tencent-cloud.com/0bf22uaawaaakiacgmsq5jqfbvodbpkqacya.f10002.mp4
-林正英-第46部,https://50069.njc.svp.tencent-cloud.com/0bf2gqaa4aaal4acmisq2zqfangdby2aadqa.f10002.mp4
 
 周润发系列,https://vip.ffzy-play7.com/20221115/4618_c0d157fe/index.m3u8$英雄本色
 周润发系列,https://vip.ffzy-play7.com/20221115/4808_81999f35/index.m3u8$英雄本色2
