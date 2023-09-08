@@ -1,6 +1,6 @@
 🇨🇳||央视频道,#genre#
 
-CCTV-1 ,https://cntv.sbs/tv?auth=230830&id=cctv1$超清范明明
+CCTV-1 ,https://cntv.sbs/tv?auth=2309081833&id=cctv1$超清范明明
 CCTV-1 ,http://39.134.32.102:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT$秒播
 CCTV-1 ,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227479/index.m3u8$联通+回放
 CCTV-1 ,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8$超清移动162
@@ -17,7 +17,7 @@ CCTV-1 ,https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
 CCTV-1 ,http://8.210.232.168/php/migu.php?id=cctv1
 CCTV-1 ,http://8.210.232.168/php/migu.php?id=cctv1b
 
-CCTV-2 ,https://cntv.sbs/tv?auth=230830&id=cctv2$超清范明明
+CCTV-2 ,https://cntv.sbs/tv?auth=2309081833&id=cctv2$超清范明明
 CCTV-2 ,http://39.134.32.103:6610/270000001111/1110000302/index.m3u8?IASHttpSessionId=OTT$秒播
 CCTV-2 ,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227477/index.m3u8$联通+回放
 CCTV-2 ,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8$超清移动162
@@ -31,7 +31,7 @@ CCTV-2 ,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226
 CCTV-2 ,https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
 CCTV-2 ,http://8.210.232.168/php/migu.php?id=cctv2
 
-CCTV-3 ,https://cntv.sbs/tv?auth=230830&id=cctv3$超清范明明
+CCTV-3 ,https://cntv.sbs/tv?auth=2309081833&id=cctv3$超清范明明
 CCTV-3 ,http://39.134.32.102:6610/270000001111/1110000303/index.m3u8?IASHttpSessionId=OTT$秒播
 CCTV-3 ,http://39.134.32.102:6610/270000001111/1110000317/index.m3u8?IASHttpSessionId=OTT$秒播高清*
 CCTV-3 ,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227435/index.m3u8$联通+回放
@@ -45,7 +45,7 @@ CCTV-3 ,http://8.210.232.168/php/migu.php?id=cctv3
 
 CCTV3 综艺高清,http://39.134.32.102:6610/270000001111/1110000317/index.m3u8?IASHttpSessionId=OTT
 
-CCTV-4 ,https://cntv.sbs/tv?auth=230830&id=cctv4$超清范明明
+CCTV-4 ,https://cntv.sbs/tv?auth=2309081833&id=cctv4$超清范明明
 CCTV-4 ,http://111.20.40.164/PLTV/88888893/224/3221226191/index.m3u8$秒播
 CCTV-4 ,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227373/index.m3u8$联通+回放
 CCTV-4 ,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8$超清移动162
@@ -60,7 +60,7 @@ CCTV-4 ,http://8.210.232.168/php/migu.php?id=cctv4
 CCTV-04欧洲,http://8.210.232.168/php/migu.php?id=cctv4o
 CCTV-04美洲,http://8.210.232.168/php/migu.php?id=cctv4a
 
-CCTV-5 ,https://cntv.sbs/tv?auth=230830&id=cctv5$超清范明明
+CCTV-5 ,https://cntv.sbs/tv?auth=2309081833&id=cctv5$超清范明明
 CCTV-5 ,http://39.134.32.102:6610/270000001111/1110000305/index.m3u8?IASHttpSessionId=OTT$秒播
 CCTV-5 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227491/index.m3u8$联通+回放
 CCTV-5 ,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8$超清移动162
@@ -76,7 +76,7 @@ CCTV-5 ,http://8.210.232.168/php/migu.php?id=cctv5b
 
 CCTV5 体育高清,http://39.134.32.102:6610/270000001111/1110000321/index.m3u8?IASHttpSessionId=OTT
 
-CCTV-5+ ,https://cntv.sbs/tv?auth=230830&id=cctv5p$超清范明明
+CCTV-5+ ,https://cntv.sbs/tv?auth=2309081833&id=cctv5p$超清范明明
 CCTV-5+ ,http://39.134.32.102:6610/270000001111/1110000306/index.m3u8?IASHttpSessionId=OTT$秒播
 CCTV-5+ ,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227493/index.m3u8$联通+回放
 CCTV-5+ ,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8$超清移动162
@@ -90,7 +90,7 @@ CCTV-5+ ,https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
 CCTV-5+ ,http://8.210.232.168/php/migu.php?id=cctv5p
 CCTV-5+ ,http://8.210.232.168/php/migu.php?id=cctv5p2
 
-CCTV-6 ,https://cntv.sbs/tv?auth=230830&id=cctv6$超清范明明
+CCTV-6 ,https://cntv.sbs/tv?auth=2309081833&id=cctv6$超清范明明
 CCTV-6 ,http://39.134.32.102:6610/270000001111/1110000307/index.m3u8?IASHttpSessionId=OTT$秒播
 CCTV-6 ,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227431/index.m3u8$联通+回放
 CCTV-6 ,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8$超清移动162
@@ -104,7 +104,7 @@ CCTV-6 ,http://8.210.232.168/php/migu.php?id=cctv6
 
 CCTV-6 电影高清 ,http://39.134.32.102:6610/270000001111/1110000319/index.m3u8?IASHttpSessionId=OTT
 
-CCTV-7 ,https://cntv.sbs/tv?auth=230830&id=cctv7$超清明明
+CCTV-7 ,https://cntv.sbs/tv?auth=2309081833&id=cctv7$超清明明
 CCTV-7 ,http://cyz32.livehbindex.hbcatv.cn/live/500000204daa45af99b5800a528fac21.m3u8?bitrate=2300&pt=5$秒播
 CCTV-7 ,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227429/index.m3u8$联通+回放
 CCTV-7 ,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8$超清移动166
@@ -116,7 +116,7 @@ CCTV-7 ,http://hms284nc1972679584.live.aikan.miguvideo.com/wh7f454c46tw421115575
 CCTV-7 ,https://live.goodiptv.club/api/bestv.php?id=cctv7hd8m/8000000
 CCTV-7 ,http://8.210.232.168/php/migu.php?id=cctv7
 
-CCTV-8 ,https://cntv.sbs/tv?auth=230830&id=cctv8$超清明明
+CCTV-8 ,https://cntv.sbs/tv?auth=2309081833&id=cctv8$超清明明
 CCTV-8 ,http://39.134.32.102:6610/270000001111/1110000309/index.m3u8?IASHttpSessionId=OTT$秒播
 CCTV-8 ,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227427/index.m3u8$联通+回放
 CCTV-8 ,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8$超清移动162
@@ -131,7 +131,7 @@ CCTV-8 ,http://8.210.232.168/php/migu.php?id=cctv8
 
 CCTV-8 电视剧高清 ,http://39.134.32.102:6610/270000001111/1110000320/index.m3u8?IASHttpSessionId=OTT
 
-CCTV-9 ,https://cntv.sbs/tv?auth=230830&id=cctv9$超清明明
+CCTV-9 ,https://cntv.sbs/tv?auth=2309081833&id=cctv9$超清明明
 CCTV-9 ,http://221.213.43.82:8888/newlive/live/hls/11/live.m3u8$秒播
 CCTV-9 ,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227425/index.m3u8$联通+回放
 CCTV-9 ,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8$超清移动162
@@ -144,7 +144,7 @@ CCTV-9 ,http://hms444nc1972679601.live.aikan.miguvideo.com/wh7f454c46tw426057743
 CCTV-9 ,https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
 CCTV-9 ,http://8.210.232.168/php/migu.php?id=cctv9
 
-CCTV-10 ,https://cntv.sbs/tv?auth=230830&id=cctv10$超清明明
+CCTV-10 ,https://cntv.sbs/tv?auth=2309081833&id=cctv10$超清明明
 CCTV-10 ,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8$秒播
 CCTV-10 ,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227375/index.m3u8$联通+回放
 CCTV-10 ,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8$超清移动162
@@ -156,7 +156,7 @@ CCTV-10 ,http://hms424nc1972679599.live.aikan.miguvideo.com/wh7f454c46tw23831354
 CCTV-10 ,https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
 CCTV-10 ,http://8.210.232.168/php/migu.php?id=cctv10
 
-CCTV-11 ,https://cntv.sbs/tv?auth=230830&id=cctv11$超清明明
+CCTV-11 ,https://cntv.sbs/tv?auth=2309081833&id=cctv11$超清明明
 CCTV-11 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8$秒播
 CCTV-11 ,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227922/index.m3u8$联通+回放
 CCTV-11 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8$超清rrsa
@@ -168,7 +168,7 @@ CCTV-11 ,http://221.213.43.82:8888/newlive/live/hls/13/live.m3u8
 CCTV-11 ,https://live.goodiptv.club/api/bestv.php?id=cctv11hd8m/8000000
 CCTV-11 ,http://8.210.232.168/php/migu.php?id=cctv11
 
-CCTV-12 ,https://cntv.sbs/tv?auth=230830&id=cctv12$超清明明
+CCTV-12 ,https://cntv.sbs/tv?auth=2309081833&id=cctv12$超清明明
 CCTV-12 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226723/1.m3u8$秒播
 CCTV-12 ,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227377/index.m3u8$联通+回放
 CCTV-12 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226723/1.m3u8$超清rrsa1
@@ -182,7 +182,7 @@ CCTV-12 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226748/1
 CCTV-12 ,https://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000
 CCTV-12 ,http://8.210.232.168/php/migu.php?id=cctv12
 
-CCTV-13 ,https://cntv.sbs/tv?auth=230830&id=cctv13$超清明明
+CCTV-13 ,https://cntv.sbs/tv?auth=2309081833&id=cctv13$超清明明
 CCTV-13 ,http://39.134.32.102:6610/270000001111/1110000314/index.m3u8?IASHttpSessionId=OTT$秒播
 CCTV-13 ,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227926/index.m3u8$联通+回放
 CCTV-13 ,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8$超清移动162
@@ -196,7 +196,7 @@ CCTV-13 ,http://hms184nc1972679575.live.aikan.miguvideo.com/wh7f454c46tw94620592
 CCTV-13 ,https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
 CCTV-13 ,http://8.210.232.168/php/migu.php?id=cctv13
 
-CCTV-14 ,https://cntv.sbs/tv?auth=230830&id=cctv14$超清明明
+CCTV-14 ,https://cntv.sbs/tv?auth=2309081833&id=cctv14$超清明明
 CCTV-14 ,http://221.213.43.82:8888/newlive/live/hls/16/live.m3u8$秒播
 CCTV-14 ,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227379/index.m3u8$联通+回放
 CCTV-14 ,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8$超清移动162
@@ -208,7 +208,7 @@ CCTV-14 ,http://hms344nc1972679590.live.aikan.miguvideo.com/wh7f454c46tw12976666
 CCTV-14 ,https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000
 CCTV-14 ,http://8.210.232.168/php/migu.php?id=cctv14
 
-CCTV-15 ,https://cntv.sbs/tv?auth=230830&id=cctv15$超清明明
+CCTV-15 ,https://cntv.sbs/tv?auth=2309081833&id=cctv15$超清明明
 CCTV-15 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8$秒播
 CCTV-15 ,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227933/index.m3u8$联通+回放
 CCTV-15 ,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8$超清移动162
@@ -219,7 +219,7 @@ CCTV-15 ,http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw13879863
 CCTV-15 ,https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
 CCTV-15 ,http://8.210.232.168/php/migu.php?id=cctv15
 
-CCTV-16 ,https://cntv.sbs/tv?auth=230830&id=cctv16$超清明明
+CCTV-16 ,https://cntv.sbs/tv?auth=2309081833&id=cctv16$超清明明
 CCTV-16 ,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8$秒播
 CCTV-16 ,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8$超清移动162
 CCTV-16 ,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8$超清移动166
@@ -230,9 +230,9 @@ CCTV-16 ,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122
 CCTV-16 ,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
 CCTV-16 ,http://8.210.232.168/php/migu.php?id=cctv16
 
-CCTV-16 4K ,https://cntv.sbs/tv?auth=230830&id=cctv164k
+CCTV-16 4K ,https://cntv.sbs/tv?auth=2309081833&id=cctv164k
 
-CCTV-17 ,https://cntv.sbs/tv?auth=230830&id=cctv17$超清明明
+CCTV-17 ,https://cntv.sbs/tv?auth=2309081833&id=cctv17$超清明明
 CCTV-17 ,http://cyz32.livehbindex.hbcatv.cn/live/500000208b8d41c4b436ef32428c229d.m3u8?bitrate=2300&pt=5$秒播
 CCTV-17 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m3u8?$超清rrsb1
 CCTV-17 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m3u8$超清rrsa1
@@ -246,15 +246,15 @@ CCTV-17 ,http://8.210.232.168/php/migu.php?id=cctv17
 
 CCTV    移动 ,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
 
-CCTV-4K ,https://cntv.sbs/tv?auth=230830&id=cctv4k$超清明明
+CCTV-4K ,https://cntv.sbs/tv?auth=2309081833&id=cctv4k$超清明明
 CCTV-4K ,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 
-CETV-1 ,https://cntv.sbs/tv?auth=230830&id=cetv1$超清明明
+CETV-1 ,https://cntv.sbs/tv?auth=2309081833&id=cetv1$超清明明
 CETV-1 ,http://txycetvbl.centv.cn/cetv1/ypd.m3u8
 CETV-1 ,http://txycsbl.centv.cn/zb/0628cetv1.m3u8
 CETV-1 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226673/1.m3u8$超清rrsa
 
-CETV-2 ,https://cntv.sbs/tv?auth=230830&id=cetv2$超清明明
+CETV-2 ,https://cntv.sbs/tv?auth=2309081833&id=cetv2$超清明明
 CETV-2 ,http://txycetvbl.centv.cn/cetv2/2020tsytk.m3u8
 CETV-2 ,http://txycsbl.centv.cn/zb/0822cetv2.m3u8
 
@@ -262,7 +262,7 @@ CETV-2 ,http://txycsbl.centv.cn/zb/0822cetv2.m3u8
 CETV-3 ,http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
 CETV-3 ,http://txycsbl.centv.cn/zb/0822cetv3.m3u8
 
-CETV-4 ,https://cntv.sbs/tv?auth=230830&id=cetv4$超清明明
+CETV-4 ,https://cntv.sbs/tv?auth=2309081833&id=cetv4$超清明明
 CETV-4 ,http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
 CETV-4 ,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 CETV-4 ,http://fuhome.vicp.fun:4060/rtp/239.253.43.40:5146$超清电1
@@ -273,7 +273,7 @@ CGTN纪录,http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 CGTN英语,http://183.234.194.165:8888/udp/239.21.0.109:3776
 CGTN英语,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN英语,http://live.cgtn.com/500/prog_index.m3u8
-CGTN英语,https://cntv.sbs/tv?auth=230830&id=cgtn$超清明明
+CGTN英语,https://cntv.sbs/tv?auth=2309081833&id=cgtn$超清明明
 
 CGTN法语,http://183.234.194.165:8888/udp/239.21.0.112:3788
 CGTN法语,http://news.cgtn.com/resource/live/french/cgtn-f.m3u8
@@ -333,37 +333,37 @@ CCTV电视指南 ,http://yzfvip.top:8002/rtp/239.253.43.19:5146$超清电01
 
 中央新影老故事 ,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8?
 
-中国天气 ,https://cntv.sbs/tv?auth=230830&id=zgtq$标清明明
+中国天气 ,https://cntv.sbs/tv?auth=2309081833&id=zgtq$标清明明
 
 梨园频道 ,https://pi.0472.org/tv/hn.php?id=154
 
-CCTV-1综合	,https://cntv.sbs/tv?auth=230830&id=cctv1$范明明
-CCTV-2财经	,https://cntv.sbs/tv?auth=230830&id=cctv2$范明明
-CCTV-3综艺	,https://cntv.sbs/tv?auth=230830&id=cctv3$范明明
-CCTV-4中文国际	,https://cntv.sbs/tv?auth=230830&id=cctv4$范明明
-CCTV-5体育	,https://cntv.sbs/tv?auth=230830&id=cctv5$范明明
-CCTV-5+体育赛事	,https://cntv.sbs/tv?auth=230830&id=cctv5p$范明明
-CCTV-6电影	,https://cntv.sbs/tv?auth=230830&id=cctv6$范明明
-CCTV-7国防军事	,https://cntv.sbs/tv?auth=230830&id=cctv7$范明明
-CCTV-8电视剧	,https://cntv.sbs/tv?auth=230830&id=cctv8$范明明
-CCTV-9纪录	,https://cntv.sbs/tv?auth=230830&id=cctv9$范明明
-CCTV-10科教	,https://cntv.sbs/tv?auth=230830&id=cctv10$范明明
-CCTV-11戏曲	,https://cntv.sbs/tv?auth=230830&id=cctv11$范明明
-CCTV-12社会与法	,https://cntv.sbs/tv?auth=230830&id=cctv12$范明明
-CCTV-13新闻	,https://cntv.sbs/tv?auth=230830&id=cctv13$范明明
-CCTV-14少儿	,https://cntv.sbs/tv?auth=230830&id=cctv14$范明明
-CCTV-15音乐	,https://cntv.sbs/tv?auth=230830&id=cctv15$范明明
-CCTV-16奥林匹克	,https://cntv.sbs/tv?auth=230830&id=cctv16$范明明
-CCTV-17农业农村	,https://cntv.sbs/tv?auth=230830&id=cctv17$范明明
-CCTV-4K超高清	,https://cntv.sbs/tv?auth=230830&id=cctv4k$范明明
-CCTV-164K	,https://cntv.sbs/tv?auth=230830&id=cctv164k$范明明
+CCTV-1综合	,https://cntv.sbs/tv?auth=2309081833&id=cctv1$范明明
+CCTV-2财经	,https://cntv.sbs/tv?auth=2309081833&id=cctv2$范明明
+CCTV-3综艺	,https://cntv.sbs/tv?auth=2309081833&id=cctv3$范明明
+CCTV-4中文国际	,https://cntv.sbs/tv?auth=2309081833&id=cctv4$范明明
+CCTV-5体育	,https://cntv.sbs/tv?auth=2309081833&id=cctv5$范明明
+CCTV-5+体育赛事	,https://cntv.sbs/tv?auth=2309081833&id=cctv5p$范明明
+CCTV-6电影	,https://cntv.sbs/tv?auth=2309081833&id=cctv6$范明明
+CCTV-7国防军事	,https://cntv.sbs/tv?auth=2309081833&id=cctv7$范明明
+CCTV-8电视剧	,https://cntv.sbs/tv?auth=2309081833&id=cctv8$范明明
+CCTV-9纪录	,https://cntv.sbs/tv?auth=2309081833&id=cctv9$范明明
+CCTV-10科教	,https://cntv.sbs/tv?auth=2309081833&id=cctv10$范明明
+CCTV-11戏曲	,https://cntv.sbs/tv?auth=2309081833&id=cctv11$范明明
+CCTV-12社会与法	,https://cntv.sbs/tv?auth=2309081833&id=cctv12$范明明
+CCTV-13新闻	,https://cntv.sbs/tv?auth=2309081833&id=cctv13$范明明
+CCTV-14少儿	,https://cntv.sbs/tv?auth=2309081833&id=cctv14$范明明
+CCTV-15音乐	,https://cntv.sbs/tv?auth=2309081833&id=cctv15$范明明
+CCTV-16奥林匹克	,https://cntv.sbs/tv?auth=2309081833&id=cctv16$范明明
+CCTV-17农业农村	,https://cntv.sbs/tv?auth=2309081833&id=cctv17$范明明
+CCTV-4K超高清	,https://cntv.sbs/tv?auth=2309081833&id=cctv4k$范明明
+CCTV-164K	,https://cntv.sbs/tv?auth=2309081833&id=cctv164k$范明明
 
-CETV1	,https://cntv.sbs/tv?auth=230830&id=cetv1$范明明
-CETV2	,https://cntv.sbs/tv?auth=230830&id=cetv2$范明明
+CETV1	,https://cntv.sbs/tv?auth=2309081833&id=cetv1$范明明
+CETV2	,https://cntv.sbs/tv?auth=2309081833&id=cetv2$范明明
 CETV3	,http://txycetvbl.centv.cn/cetv3/bjdm.m3u8$范明明
-CETV4	,https://cntv.sbs/tv?auth=230830&id=cetv4$范明明
+CETV4	,https://cntv.sbs/tv?auth=2309081833&id=cetv4$范明明
 梨园频道	,https://pi.0472.org/tv/hn.php?id=154$范明明
-中国天气	,https://cntv.sbs/tv?auth=230830&id=zgtq$范明明
+中国天气	,https://cntv.sbs/tv?auth=2309081833&id=zgtq$范明明
 🇨🇳｜卫视频道,#genre#
 
 北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8$超清移动
@@ -374,7 +374,7 @@ CETV4	,https://cntv.sbs/tv?auth=230830&id=cetv4$范明明
 北京卫视,http://125.210.152.19:9120/live/hzgq-bjgqws-h264.m3u8$高清hz
 北京卫视,http://222.71.90.218:8888/newlive/live/hls/18/live.m3u8$超清hls
 北京卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8?$超清移动2
-北京卫视,https://cntv.sbs/tv?auth=230830&id=bjws$超清明明
+北京卫视,https://cntv.sbs/tv?auth=2309081833&id=bjws$超清明明
 北京卫视,https://live.goodiptv.club/api/bestv.php?id=bjwshd8m/8000000$超清百事
 北京卫视,http://8.210.232.168/php/migu.php?id=bjws$超清咪咕
 
@@ -385,20 +385,20 @@ CETV4	,https://cntv.sbs/tv?auth=230830&id=cetv4$范明明
 天津卫视,http://125.210.152.19:9120/live/hzgq-tjwsgq-h264.m3u8$高清hz
 天津卫视,http://222.71.90.218:8888/newlive/live/hls/32/live.m3u8$高清hls
 天津卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225765/index.m3u8$标清移动
-天津卫视,https://cntv.sbs/tv?auth=230830&id=tjws$超清明明
+天津卫视,https://cntv.sbs/tv?auth=2309081833&id=tjws$超清明明
 
 
 河北卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226684/1.m3u8$超清rrsa
 河北卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020d6be4c4ba70a4e3261b14544.m3u8?bitrate=2300&pt=5$高清cyz
 河北卫视,http://125.210.152.19:9120/live/hzgq-hbwsgq1-h264.m3u8$高清hz
 河北卫视,http://222.71.90.218:8888/newlive/live/hls/37/live.m3u8$高清hls
-河北卫视,https://cntv.sbs/tv?auth=230830&id=hbws$超清明明
+河北卫视,https://cntv.sbs/tv?auth=2309081833&id=hbws$超清明明
 河北卫视,https://live.goodiptv.club/api/bestv.php?id=hbwshd8m/8000000$超清百事
 
 
 山西卫视,http://live.cooltv.top/tv/tide.php?id=sxiws2$高清cool
 山西卫视,http://221.213.43.82:8888/newlive/live/hls/48/live.m3u8$超清221
-山西卫视,https://cntv.sbs/tv?auth=230830&id=sxiws$标清明明
+山西卫视,https://cntv.sbs/tv?auth=2309081833&id=sxiws$标清明明
 山西卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020ed0a4b74afc7e496c1bcc45c.m3u8?bitrate=2300&pt=5$标清cyz
 山西卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8$标清移动
 山西卫视,http://125.210.152.19:9120/live/hszx-shanxitv-h264.m3u8$标清hszx
@@ -408,7 +408,7 @@ CETV4	,https://cntv.sbs/tv?auth=230830&id=cetv4$范明明
 内蒙古卫视,http://111.59.63.32:9901/tsfile/live/1038_1.m3u8$超清111
 内蒙古卫视,http://222.71.90.218:8888/newlive/live/hls/46/live.m3u8$标清hls
 内蒙古卫视,http://125.210.152.19:9120/live/hszx-nmgtv-h264.m3u8$标清hszx
-内蒙古卫视,https://cntv.sbs/tv?auth=230830&id=nmws$标清明明
+内蒙古卫视,https://cntv.sbs/tv?auth=2309081833&id=nmws$标清明明
 内蒙古卫视,http://8.210.232.168/php/migu.php?id=nmws$标清咪咕
 
 辽宁卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226689/1.m3u8$超清rrsa
@@ -416,14 +416,14 @@ CETV4	,https://cntv.sbs/tv?auth=230830&id=cetv4$范明明
 辽宁卫视,http://cyz32.livehbindex.hbcatv.cn/live/5000002019d84b0ba201007677bbf28c.m3u8?bitrate=2300&pt=5$高清cyz
 辽宁卫视,http://125.210.152.19:9120/live/hzgq-lnwsgq-h264.m3u8$高清hz
 辽宁卫视,http://222.71.90.218:8888/newlive/live/hls/31/live.m3u8$超清hls
-辽宁卫视,https://cntv.sbs/tv?auth=230830&id=lnws$超清明明
+辽宁卫视,https://cntv.sbs/tv?auth=2309081833&id=lnws$超清明明
 辽宁卫视,https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000$超清百事
 辽宁卫视,http://8.210.232.168/php/migu.php?id=lnws$超清咪咕
 
 吉林卫视,http://cyz32.livehbindex.hbcatv.cn/live/500000205c15461b956f19f9b6896ad6.m3u8?bitrate=2300&pt=5$高清cyz
 吉林卫视,http://221.213.43.82:8888/newlive/live/hls/35/live.m3u8$超清221
 吉林卫视,http://111.59.63.32:9901/tsfile/live/1043_1.m3u8$超清111
-吉林卫视,https://cntv.sbs/tv?auth=230830&id=jlws$超清明明
+吉林卫视,https://cntv.sbs/tv?auth=2309081833&id=jlws$超清明明
 吉林卫视,http://125.210.152.19:9120/live/hzgq-jlwsgq-h264.m3u8$高清hz
 吉林卫视,http://222.71.90.218:8888/newlive/live/hls/41/live.m3u8$超清hls
 吉林卫视,https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000$超清百事
@@ -437,7 +437,7 @@ CETV4	,https://cntv.sbs/tv?auth=230830&id=cetv4$范明明
 黑龙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226010/1.m3u8$超清移动2
 黑龙江卫视,http://125.210.152.19:9120/live/hzgq-hljwsgq-h264.m3u8$高清hz
 黑龙江卫视,http://222.71.90.218:8888/newlive/live/hls/25/live.m3u8$超清hls
-黑龙江卫视,https://cntv.sbs/tv?auth=230830&id=hljws$超清明明
+黑龙江卫视,https://cntv.sbs/tv?auth=2309081833&id=hljws$超清明明
 黑龙江卫视,https://live.goodiptv.club/api/bestv.php?id=hljwshd8m/8000000$超清百事
 
 
@@ -448,7 +448,7 @@ CETV4	,https://cntv.sbs/tv?auth=230830&id=cetv4$范明明
 东方卫视,http://cyz32.livehbindex.hbcatv.cn/live/500000203860417eb7f08f9270fc1155.m3u8?bitrate=2300&pt=5$高清cyz
 东方卫视,http://125.210.152.19:9120/live/hzgq-dftvgq-h264.m3u8$高清hz
 东方卫视,http://222.71.90.218:8888/newlive/live/hls/19/live.m3u8$高清hls
-东方卫视,https://cntv.sbs/tv?auth=230830&id=dfws$超清明明
+东方卫视,https://cntv.sbs/tv?auth=2309081833&id=dfws$超清明明
 东方卫视,https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000$超清百事
 东方卫视,http://8.210.232.168/php/migu.php?id=dfws$高清咪咕
 东方卫视,http://8.210.232.168/php/migu.php?id=dfws2$超清咪咕
@@ -460,7 +460,7 @@ CETV4	,https://cntv.sbs/tv?auth=230830&id=cetv4$范明明
 江苏卫视,http://cyz32.livehbindex.hbcatv.cn/live/500000201708473e9f4e1dbb0361de6b.m3u8?bitrate=2300&pt=5$高清cyz
 江苏卫视,http://125.210.152.19:9120/live/hzgq-jswsgq-h264.m3u8$高清hz
 江苏卫视,http://222.71.90.218:8888/newlive/live/hls/21/live.m3u8$高清hls
-江苏卫视,https://cntv.sbs/tv?auth=230830&id=jsws$超清明明
+江苏卫视,https://cntv.sbs/tv?auth=2309081833&id=jsws$超清明明
 江苏卫视,https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000$超清百事
 江苏卫视,http://8.210.232.168/php/migu.php?id=jsws$超清咪咕
 
@@ -470,7 +470,7 @@ CETV4	,https://cntv.sbs/tv?auth=230830&id=cetv4$范明明
 浙江卫视,http://cyz32.livehbindex.hbcatv.cn/live/5000002045414da0bcca7fb08fd34c8a.m3u8?bitrate=2300&pt=5$高清cyz
 浙江卫视,http://125.210.152.19:9120/live/hzgq-zjwsgq-h264.m3u8$高清hz
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$超清蓝天2
-浙江卫视,https://cntv.sbs/tv?auth=230830&id=zjws$超清明明
+浙江卫视,https://cntv.sbs/tv?auth=2309081833&id=zjws$超清明明
 浙江卫视,https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000$超清百事
 
 江西卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226682/1.m3u8$超清rrsa1
@@ -479,7 +479,7 @@ CETV4	,https://cntv.sbs/tv?auth=230830&id=cetv4$范明明
 江西卫视,http://113.117.74.20:8081/hls/58/index.m3u8$超清113
 江西卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020728a439baf65ce94f8cf3e30.m3u8?bitrate=2300&pt=5$高清cyz
 江西卫视,http://125.210.152.19:9120/live/hzgq-jxwsgq-h264.m3u8$高清hz
-江西卫视,https://cntv.sbs/tv?auth=230830&id=jxws$超清明明
+江西卫视,https://cntv.sbs/tv?auth=2309081833&id=jxws$超清明明
 江西卫视,https://live.goodiptv.club/api/bestv.php?id=jxws8m/8000000$超清百事
 江西卫视,http://8.210.232.168/php/migu.php?id=jxws$超清咪咕
 
@@ -488,13 +488,13 @@ CETV4	,https://cntv.sbs/tv?auth=230830&id=cetv4$范明明
 安徽卫视,http://113.117.74.20:8081/hls/49/index.m3u8$超清113
 安徽卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020d0ab40578faaa8a023ce4d5c.m3u8?bitrate=2300&pt=5$高清cyz
 安徽卫视,http://125.210.152.19:9120/live/hzgq-ahwsgq-h264.m3u8$高清hz
-安徽卫视,https://cntv.sbs/tv?auth=230830&id=ahws$超清明明
+安徽卫视,https://cntv.sbs/tv?auth=2309081833&id=ahws$超清明明
 安徽卫视,https://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000$超清百事
 
 东南卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226670/1.m3u8$超清rrsa
 东南卫视,http://113.117.74.20:8081/hls/55/index.m3u8$超清113
 东南卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020c18c4f03a2107aa78ced8fff.m3u8?bitrate=2300&pt=5$高清cyz
-东南卫视,https://cntv.sbs/tv?auth=230830&id=dnws$超清明明
+东南卫视,https://cntv.sbs/tv?auth=2309081833&id=dnws$超清明明
 东南卫视,https://live.goodiptv.club/api/bestv.php?id=dnwshd8m/8000000$超清百事
 
 山东卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226693/1.m3u8$超清rrsa
@@ -502,12 +502,12 @@ CETV4	,https://cntv.sbs/tv?auth=230830&id=cetv4$范明明
 山东卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8$超清移动166
 山东卫视,http://125.210.152.19:9120/live/hzgq-sdwsgq-h264.m3u8$高清hz
 山东卫视,https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000$超清百事
-山东卫视,https://cntv.sbs/tv?auth=230830&id=sdws$超清明明
+山东卫视,https://cntv.sbs/tv?auth=2309081833&id=sdws$超清明明
 山东卫视,http://8.210.232.168/php/migu.php?id=sdws$超清咪咕
 
 河南卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226668/1.m3u8$超清rrsa
 河南卫视,http://cyz32.livehbindex.hbcatv.cn/live/500000201d7c47a8b9b127d69fb816ac.m3u8?bitrate=2300&pt=5$高清cyz
-河南卫视,https://cntv.sbs/tv?auth=230830&id=hnws$超清明明
+河南卫视,https://cntv.sbs/tv?auth=2309081833&id=hnws$超清明明
 河南卫视,http://125.210.152.19:9120/live/hzgq-henanwsgq-h264.m3u8$高清hz
 河南卫视,https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000$超清百事
 河南卫视,http://222.71.90.218:8888/newlive/live/hls/38/live.m3u8$高清hls
@@ -518,7 +518,7 @@ CETV4	,https://cntv.sbs/tv?auth=230830&id=cetv4$范明明
 湖北卫视,http://113.117.74.20:8081/hls/51/index.m3u8$超清113
 湖北卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020273747628129718a5717b2dd.m3u8?bitrate=2300&pt=5$高清cyz
 湖北卫视,http://125.210.152.19:9120/live/hzgq-hbwsgq-h264.m3u8$高清hz
-湖北卫视,https://cntv.sbs/tv?auth=230830&id=hubws$超清明明
+湖北卫视,https://cntv.sbs/tv?auth=2309081833&id=hubws$超清明明
 湖北卫视,https://live.goodiptv.club/api/bestv.php?id=hubeiws8m/8000000$超清百事
 湖北卫视,http://8.210.232.168/php/migu.php?id=hubws$超清咪咕
 
@@ -526,14 +526,14 @@ CETV4	,https://cntv.sbs/tv?auth=230830&id=cetv4$范明明
 湖南卫视,http://113.117.74.20:8081/hls/42/index.m3u8$超清113
 湖南卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020c9ea4ce4bf3cfbbb7f8b8bb7.m3u8?bitrate=2300&pt=5$高清cyz
 湖南卫视,http://125.210.152.19:9120/live/hzgq-hnwsgq-h264.m3u8$高清hz
-湖南卫视,https://cntv.sbs/tv?auth=230830&id=hunws$超清明明
+湖南卫视,https://cntv.sbs/tv?auth=2309081833&id=hunws$超清明明
 湖南卫视,https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000$超清百事
 湖南卫视,http://8.210.232.168/php/migu.php?id=hunws$超清咪咕
 
 广东卫视,http://113.117.74.20:8081/hls/40/index.m3u8$超清113
 广东卫视,http://cyz32.livehbindex.hbcatv.cn/live/500000206bc6413cb38dc9ca586ffe3f.m3u8?bitrate=2300&pt=5$高清cyz
 广东卫视,http://125.210.152.19:9120/live/hzgq-gdwsgq-h264.m3u8$高清hz
-广东卫视,https://cntv.sbs/tv?auth=230830&id=gdws$超清明明
+广东卫视,https://cntv.sbs/tv?auth=2309081833&id=gdws$超清明明
 广东卫视,https://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000$超清百事
 广东卫视,http://8.210.232.168/php/migu.php?id=gdws$高清咪咕
 广东卫视,http://8.210.232.168/php/migu.php?id=gdws2$高清咪咕2
@@ -542,18 +542,18 @@ CETV4	,https://cntv.sbs/tv?auth=230830&id=cetv4$范明明
 广西卫视,https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000$超清百事
 广西卫视,http://yzfvip.top:8002/rtp/239.253.43.36:5146$超清电1
 广西卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020731348f098457f0080cdf72c.m3u8?bitrate=2300&pt=5$标清cyz
-广西卫视,https://cntv.sbs/tv?auth=230830&id=gxws$超清明明
+广西卫视,https://cntv.sbs/tv?auth=2309081833&id=gxws$超清明明
 广西卫视,http://222.71.90.218:8888/newlive/live/hls/40/live.m3u8$超清hls
 
 海南卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226679/1.m3u8$超清rrsa
 海南卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020741c4046820cd89d5ecbd401.m3u8?bitrate=2300&pt=5$高清cyz
-海南卫视,https://cntv.sbs/tv?auth=230830&id=hinws$超清明明
+海南卫视,https://cntv.sbs/tv?auth=2309081833&id=hinws$超清明明
 海南卫视,http://yzfvip.top:8002/rtp/239.253.43.35:5146$超清电1
 海南卫视,http://125.210.152.19:9120/live/hzgq-hnwsgq-h264.m3u8$高清hz
 海南卫视,https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000$超清百事
 
 重庆卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226680/1.m3u8$超清rrsa
-重庆卫视,https://cntv.sbs/tv?auth=230830&id=cqws$超清明明
+重庆卫视,https://cntv.sbs/tv?auth=2309081833&id=cqws$超清明明
 重庆卫视,http://125.210.152.19:9120/live/hzgq-cqwsgq-h264.m3u8$高清hz
 重庆卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225791/index.m3u8$标清移动
 重庆卫视,https://live.goodiptv.club/api/bestv.php?id=cqws8m/8000000$超清百事
@@ -563,18 +563,18 @@ CETV4	,https://cntv.sbs/tv?auth=230830&id=cetv4$范明明
 四川卫视,http://113.117.74.20:8081/hls/52/index.m3u8$超清113
 四川卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020407a4a109f5dfc6f26dbf5eb.m3u8?bitrate=2300&pt=5$高清cyz
 四川卫视,https://live.goodiptv.club/api/bestv.php?id=scwshd/8000000$超清百事
-四川卫视,https://cntv.sbs/tv?auth=230830&id=scws$超清明明
+四川卫视,https://cntv.sbs/tv?auth=2309081833&id=scws$超清明明
 四川卫视,http://222.71.90.218:8888/newlive/live/hls/33/live.m3u8$高清hls
 四川卫视,http://8.210.232.168/php/migu.php?id=scws$超清咪咕
 
 贵州卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226672/1.m3u8$超清rrsa
-贵州卫视,https://cntv.sbs/tv?auth=230830&id=gzws$超清明明
+贵州卫视,https://cntv.sbs/tv?auth=2309081833&id=gzws$超清明明
 贵州卫视,https://live.goodiptv.club/api/bestv.php?id=gzwshd8m/8000000$超清百事
 贵州卫视,http://113.117.74.20:8081/hls/85/index.m3u8$标清113
 贵州卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225793/index.m3u8$标清移动
 
 云南卫视,http://221.213.43.82:8888/newlive/live/hls/27/live.m3u8$超清221
-云南卫视,https://cntv.sbs/tv?auth=230830&id=ynws$超清明明
+云南卫视,https://cntv.sbs/tv?auth=2309081833&id=ynws$超清明明
 云南卫视,https://live.goodiptv.club/api/bestv.php?id=ynwshd8m/8000000$超清百事
 云南卫视,http://yzfvip.top:8002/rtp/239.253.43.37:5146$超清电1
 云南卫视,http://113.117.74.20:8081/hls/92/index.m3u8$标清113
@@ -585,7 +585,7 @@ CETV4	,https://cntv.sbs/tv?auth=230830&id=cetv4$范明明
 
 西藏卫视,http://221.213.43.82:8888/newlive/live/hls/37/live.m3u8$超清221
 西藏卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8?$标清移动
-西藏卫视,https://cntv.sbs/tv?auth=230830&id=xzws$标清明明
+西藏卫视,https://cntv.sbs/tv?auth=2309081833&id=xzws$标清明明
 西藏卫视,http://125.210.152.19:9120/live/hszx-xztv-h264.m3u8$标清hszx
 西藏卫视,http://8.210.232.168/php/migu.php?id=xzws$标清咪咕
 
@@ -594,11 +594,11 @@ CETV4	,https://cntv.sbs/tv?auth=230830&id=cetv4$范明明
 陕西卫视,http://221.213.43.82:8888/newlive/live/hls/41/live.m3u8$超清221
 陕西卫视,http://222.71.90.218:8888/newlive/live/hls/45/live.m3u8$标清hls
 陕西卫视,http://125.210.152.19:9120/live/hszx-sxtv-h264.m3u8$标清hszx
-陕西卫视,https://cntv.sbs/tv?auth=230830&id=sxws$标清明明
+陕西卫视,https://cntv.sbs/tv?auth=2309081833&id=sxws$标清明明
 陕西卫视,http://8.210.232.168/php/migu.php?id=sxws$超清咪咕
 
 甘肃卫视,http://221.213.43.82:8888/newlive/live/hls/36/live.m3u8$超清221
-甘肃卫视,https://cntv.sbs/tv?auth=230830&id=gsws$超清明明
+甘肃卫视,https://cntv.sbs/tv?auth=2309081833&id=gsws$超清明明
 甘肃卫视,https://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000$超清百事
 甘肃卫视,http://125.210.152.19:9120/live/hszx-gstv-h264.m3u8$标清hszx
 甘肃卫视,http://8.210.232.168/php/migu.php?id=gsws$标清咪咕
@@ -608,22 +608,22 @@ CETV4	,https://cntv.sbs/tv?auth=230830&id=cetv4$范明明
 青海卫视,http://221.213.43.82:8888/newlive/live/hls/39/live.m3u8$超清221
 青海卫视,http://221.2.36.34:8888/newlive/live/hls/39/live.m3u8$超清221
 青海卫视,http://113.117.74.20:8081/hls/95/index.m3u8$标清113
-青海卫视,https://cntv.sbs/tv?auth=230830&id=qhws$标清明明
+青海卫视,https://cntv.sbs/tv?auth=2309081833&id=qhws$标清明明
 青海卫视,http://8.210.232.168/php/migu.php?id=qhws$标清咪咕
 
 宁夏卫视,http://221.213.43.82:8888/newlive/live/hls/40/live.m3u8$超清221
-宁夏卫视,https://cntv.sbs/tv?auth=230830&id=nxws$标清明明
+宁夏卫视,https://cntv.sbs/tv?auth=2309081833&id=nxws$标清明明
 宁夏卫视,http://8.210.232.168/php/migu.php?id=nxws$标清咪咕
 
 新疆卫视,http://221.213.43.82:8888/newlive/live/hls/38/live.m3u8$超清221
 新疆卫视,http://113.117.74.20:8081/hls/82/index.m3u8$标清113
 新疆卫视,http://111.59.63.32:9901/tsfile/live/1039_1.m3u8$超清111
-新疆卫视,https://cntv.sbs/tv?auth=230830&id=xjws$标清明明
+新疆卫视,https://cntv.sbs/tv?auth=2309081833&id=xjws$标清明明
 新疆卫视,http://8.210.232.168/php/migu.php?id=xjws$标清咪咕
 
 兵团卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8?$标清移动
 兵团卫视,http://125.210.152.19:9120/live/hszx-bttv-h264.m3u8$标清hszx
-兵团卫视,https://cntv.sbs/tv?auth=230830&id=btws$超清明明
+兵团卫视,https://cntv.sbs/tv?auth=2309081833&id=btws$超清明明
 
 
 深圳卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226688/1.m3u8$超清rrsa
@@ -631,7 +631,7 @@ CETV4	,https://cntv.sbs/tv?auth=230830&id=cetv4$范明明
 深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8?$超清移动
 深圳卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020289041678b7585eb32637331.m3u8?bitrate=2300&pt=5$高清cyz
 深圳卫视,http://125.210.152.19:9120/live/hzgq-szwsgq-h264.m3u8$高清hz
-深圳卫视,https://cntv.sbs/tv?auth=230830&id=szws$超清明明
+深圳卫视,https://cntv.sbs/tv?auth=2309081833&id=szws$超清明明
 深圳卫视,https://live.goodiptv.club/api/bestv.php?id=szwshd8m/8000000$超清百事
 
 大湾区卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=1456_4500
@@ -645,94 +645,94 @@ CETV4	,https://cntv.sbs/tv?auth=230830&id=cetv4$范明明
 
 三沙卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=1453_4500
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8$高清
-三沙卫视,https://cntv.sbs/tv?auth=230830&id=ssws$超清明明
+三沙卫视,https://cntv.sbs/tv?auth=2309081833&id=ssws$超清明明
 
-北京卫视	,https://cntv.sbs/tv?auth=230830&id=bjws$范明明
-东方卫视	,https://cntv.sbs/tv?auth=230830&id=dfws$范明明
-天津卫视	,https://cntv.sbs/tv?auth=230830&id=tjws$范明明
-重庆卫视	,https://cntv.sbs/tv?auth=230830&id=cqws$范明明
-黑龙江卫视	,https://cntv.sbs/tv?auth=230830&id=hljws$范明明
-吉林卫视	,https://cntv.sbs/tv?auth=230830&id=jlws$范明明
-辽宁卫视	,https://cntv.sbs/tv?auth=230830&id=lnws$范明明
-内蒙古卫视	,https://cntv.sbs/tv?auth=230830&id=nmws$范明明
-宁夏卫视	,https://cntv.sbs/tv?auth=230830&id=nxws$范明明
-甘肃卫视	,https://cntv.sbs/tv?auth=230830&id=gsws$范明明
-青海卫视	,https://cntv.sbs/tv?auth=230830&id=qhws$范明明
-陕西卫视	,https://cntv.sbs/tv?auth=230830&id=sxws$范明明
-河北卫视	,https://cntv.sbs/tv?auth=230830&id=hbws$范明明
-山西卫视	,https://cntv.sbs/tv?auth=230830&id=sxiws$范明明
-山东卫视	,https://cntv.sbs/tv?auth=230830&id=sdws$范明明
-安徽卫视	,https://cntv.sbs/tv?auth=230830&id=ahws$范明明
-河南卫视	,https://cntv.sbs/tv?auth=230830&id=hnws$范明明
-湖北卫视	,https://cntv.sbs/tv?auth=230830&id=hubws$范明明
-湖南卫视	,https://cntv.sbs/tv?auth=230830&id=hunws$范明明
-江西卫视	,https://cntv.sbs/tv?auth=230830&id=jxws$范明明
-江苏卫视	,https://cntv.sbs/tv?auth=230830&id=jsws$范明明
-浙江卫视	,https://cntv.sbs/tv?auth=230830&id=zjws$范明明
-东南卫视	,https://cntv.sbs/tv?auth=230830&id=dnws$范明明
-厦门卫视	,https://cntv.sbs/tv?auth=230830&id=xmws$范明明
-广东卫视	,https://cntv.sbs/tv?auth=230830&id=gdws$范明明
-深圳卫视	,https://cntv.sbs/tv?auth=230830&id=szws$范明明
-广西卫视	,https://cntv.sbs/tv?auth=230830&id=gxws$范明明
-云南卫视	,https://cntv.sbs/tv?auth=230830&id=ynws$范明明
-贵州卫视	,https://cntv.sbs/tv?auth=230830&id=gzws$范明明
-四川卫视	,https://cntv.sbs/tv?auth=230830&id=scws$范明明
-康巴卫视	,https://cntv.sbs/tv?auth=230830&id=kbws$范明明
-新疆卫视	,https://cntv.sbs/tv?auth=230830&id=xjws$范明明
-兵团卫视	,https://cntv.sbs/tv?auth=230830&id=btws$范明明
-西藏卫视	,https://cntv.sbs/tv?auth=230830&id=xzws$范明明
-海南卫视	,https://cntv.sbs/tv?auth=230830&id=hinws$范明明
-三沙卫视	,https://cntv.sbs/tv?auth=230830&id=ssws$范明明
-海峡卫视	,https://cntv.sbs/tv?auth=230830&id=hxws$范明明
-北京纪实科教	,https://cntv.sbs/tv?auth=230830&id=bjjskj$范明明
+北京卫视	,https://cntv.sbs/tv?auth=2309081833&id=bjws$范明明
+东方卫视	,https://cntv.sbs/tv?auth=2309081833&id=dfws$范明明
+天津卫视	,https://cntv.sbs/tv?auth=2309081833&id=tjws$范明明
+重庆卫视	,https://cntv.sbs/tv?auth=2309081833&id=cqws$范明明
+黑龙江卫视	,https://cntv.sbs/tv?auth=2309081833&id=hljws$范明明
+吉林卫视	,https://cntv.sbs/tv?auth=2309081833&id=jlws$范明明
+辽宁卫视	,https://cntv.sbs/tv?auth=2309081833&id=lnws$范明明
+内蒙古卫视	,https://cntv.sbs/tv?auth=2309081833&id=nmws$范明明
+宁夏卫视	,https://cntv.sbs/tv?auth=2309081833&id=nxws$范明明
+甘肃卫视	,https://cntv.sbs/tv?auth=2309081833&id=gsws$范明明
+青海卫视	,https://cntv.sbs/tv?auth=2309081833&id=qhws$范明明
+陕西卫视	,https://cntv.sbs/tv?auth=2309081833&id=sxws$范明明
+河北卫视	,https://cntv.sbs/tv?auth=2309081833&id=hbws$范明明
+山西卫视	,https://cntv.sbs/tv?auth=2309081833&id=sxiws$范明明
+山东卫视	,https://cntv.sbs/tv?auth=2309081833&id=sdws$范明明
+安徽卫视	,https://cntv.sbs/tv?auth=2309081833&id=ahws$范明明
+河南卫视	,https://cntv.sbs/tv?auth=2309081833&id=hnws$范明明
+湖北卫视	,https://cntv.sbs/tv?auth=2309081833&id=hubws$范明明
+湖南卫视	,https://cntv.sbs/tv?auth=2309081833&id=hunws$范明明
+江西卫视	,https://cntv.sbs/tv?auth=2309081833&id=jxws$范明明
+江苏卫视	,https://cntv.sbs/tv?auth=2309081833&id=jsws$范明明
+浙江卫视	,https://cntv.sbs/tv?auth=2309081833&id=zjws$范明明
+东南卫视	,https://cntv.sbs/tv?auth=2309081833&id=dnws$范明明
+厦门卫视	,https://cntv.sbs/tv?auth=2309081833&id=xmws$范明明
+广东卫视	,https://cntv.sbs/tv?auth=2309081833&id=gdws$范明明
+深圳卫视	,https://cntv.sbs/tv?auth=2309081833&id=szws$范明明
+广西卫视	,https://cntv.sbs/tv?auth=2309081833&id=gxws$范明明
+云南卫视	,https://cntv.sbs/tv?auth=2309081833&id=ynws$范明明
+贵州卫视	,https://cntv.sbs/tv?auth=2309081833&id=gzws$范明明
+四川卫视	,https://cntv.sbs/tv?auth=2309081833&id=scws$范明明
+康巴卫视	,https://cntv.sbs/tv?auth=2309081833&id=kbws$范明明
+新疆卫视	,https://cntv.sbs/tv?auth=2309081833&id=xjws$范明明
+兵团卫视	,https://cntv.sbs/tv?auth=2309081833&id=btws$范明明
+西藏卫视	,https://cntv.sbs/tv?auth=2309081833&id=xzws$范明明
+海南卫视	,https://cntv.sbs/tv?auth=2309081833&id=hinws$范明明
+三沙卫视	,https://cntv.sbs/tv?auth=2309081833&id=ssws$范明明
+海峡卫视	,https://cntv.sbs/tv?auth=2309081833&id=hxws$范明明
+北京纪实科教	,https://cntv.sbs/tv?auth=2309081833&id=bjjskj$范明明
 
 上海,#genre#
 
-五星体育	,https://cntv.sbs/tv?auth=230830&id=wxty$范明明
-东方财经	,https://cntv.sbs/tv?auth=230830&id=dfcj$范明明
-第一财经	,https://cntv.sbs/tv?auth=230830&id=dycj$范明明
-哈哈炫动	,https://cntv.sbs/tv?auth=230830&id=hhxd$范明明
-法治天地	,https://cntv.sbs/tv?auth=230830&id=fztd$范明明
-欢笑剧场	,https://cntv.sbs/tv?auth=230830&id=hxjc$范明明
-都市剧场	,https://cntv.sbs/tv?auth=230830&id=dsjc$范明明
-上海新闻综合	,https://cntv.sbs/tv?auth=230830&id=shxwzh$范明明
-上海都市	,https://cntv.sbs/tv?auth=230830&id=shds$范明明
-上海ICS外语	,https://cntv.sbs/tv?auth=230830&id=shics$范明明
-纪实人文	,https://cntv.sbs/tv?auth=230830&id=shjsrw$范明明
-七彩戏剧	,https://cntv.sbs/tv?auth=230830&id=qcxj$范明明
-上海教育	,https://cntv.sbs/tv?auth=230830&id=shjy$范明明
+五星体育	,https://cntv.sbs/tv?auth=2309081833&id=wxty$范明明
+东方财经	,https://cntv.sbs/tv?auth=2309081833&id=dfcj$范明明
+第一财经	,https://cntv.sbs/tv?auth=2309081833&id=dycj$范明明
+哈哈炫动	,https://cntv.sbs/tv?auth=2309081833&id=hhxd$范明明
+法治天地	,https://cntv.sbs/tv?auth=2309081833&id=fztd$范明明
+欢笑剧场	,https://cntv.sbs/tv?auth=2309081833&id=hxjc$范明明
+都市剧场	,https://cntv.sbs/tv?auth=2309081833&id=dsjc$范明明
+上海新闻综合	,https://cntv.sbs/tv?auth=2309081833&id=shxwzh$范明明
+上海都市	,https://cntv.sbs/tv?auth=2309081833&id=shds$范明明
+上海ICS外语	,https://cntv.sbs/tv?auth=2309081833&id=shics$范明明
+纪实人文	,https://cntv.sbs/tv?auth=2309081833&id=shjsrw$范明明
+七彩戏剧	,https://cntv.sbs/tv?auth=2309081833&id=qcxj$范明明
+上海教育	,https://cntv.sbs/tv?auth=2309081833&id=shjy$范明明
 
 数字,#genre#
 
-动漫秀场	,https://cntv.sbs/tv?auth=230830&id=dmxc$范明明
-劲爆体育	,https://cntv.sbs/tv?auth=230830&id=jbty$范明明
-新视觉	,https://cntv.sbs/tv?auth=230830&id=xsj$范明明
-游戏风云	,https://cntv.sbs/tv?auth=230830&id=yxfy$范明明
-生活时尚	,https://cntv.sbs/tv?auth=230830&id=shss$范明明
-金色学堂	,https://cntv.sbs/tv?auth=230830&id=jspd$范明明
-乐游	,https://cntv.sbs/tv?auth=230830&id=qjs$范明明
-魅力足球	,https://cntv.sbs/tv?auth=230830&id=mlzq$范明明
+动漫秀场	,https://cntv.sbs/tv?auth=2309081833&id=dmxc$范明明
+劲爆体育	,https://cntv.sbs/tv?auth=2309081833&id=jbty$范明明
+新视觉	,https://cntv.sbs/tv?auth=2309081833&id=xsj$范明明
+游戏风云	,https://cntv.sbs/tv?auth=2309081833&id=yxfy$范明明
+生活时尚	,https://cntv.sbs/tv?auth=2309081833&id=shss$范明明
+金色学堂	,https://cntv.sbs/tv?auth=2309081833&id=jspd$范明明
+乐游	,https://cntv.sbs/tv?auth=2309081833&id=qjs$范明明
+魅力足球	,https://cntv.sbs/tv?auth=2309081833&id=mlzq$范明明
 
-茶频道	,https://cntv.sbs/tv?auth=230830&id=cpd$范明明
+茶频道	,https://cntv.sbs/tv?auth=2309081833&id=cpd$范明明
 
 湖南,#genre#
-快乐垂钓	,https://cntv.sbs/tv?auth=230830&id=klcd$范明明
-金鹰纪实	,https://cntv.sbs/tv?auth=230830&id=jyjs$范明明
-金鹰卡通	,https://cntv.sbs/tv?auth=230830&id=jykt$范明明
-嘉佳卡通	,https://cntv.sbs/tv?auth=230830&id=jjkt$范明明
-财富天下	,https://cntv.sbs/tv?auth=230830&id=cftx$范明明
+快乐垂钓	,https://cntv.sbs/tv?auth=2309081833&id=klcd$范明明
+金鹰纪实	,https://cntv.sbs/tv?auth=2309081833&id=jyjs$范明明
+金鹰卡通	,https://cntv.sbs/tv?auth=2309081833&id=jykt$范明明
+嘉佳卡通	,https://cntv.sbs/tv?auth=2309081833&id=jjkt$范明明
+财富天下	,https://cntv.sbs/tv?auth=2309081833&id=cftx$范明明
 
 福建,#genre#
 
-福建综合	,https://cntv.sbs/tv?auth=230830&id=fjzh$范明明
-福建新闻	,https://cntv.sbs/tv?auth=230830&id=fjxw$范明明
-福建电视剧	,https://cntv.sbs/tv?auth=230830&id=fjdsj$范明明
-福建文体	,https://cntv.sbs/tv?auth=230830&id=fjwt$范明明
-福建少儿	,https://cntv.sbs/tv?auth=230830&id=fjse$范明明
-福建旅游	,https://cntv.sbs/tv?auth=230830&id=fjly$范明明
-福建经济	,https://cntv.sbs/tv?auth=230830&id=fjjj$范明明
-福建公共	,https://cntv.sbs/tv?auth=230830&id=fjgg$范明明
-福建教育	,https://cntv.sbs/tv?auth=230830&id=fjjy$范明明
+福建综合	,https://cntv.sbs/tv?auth=2309081833&id=fjzh$范明明
+福建新闻	,https://cntv.sbs/tv?auth=2309081833&id=fjxw$范明明
+福建电视剧	,https://cntv.sbs/tv?auth=2309081833&id=fjdsj$范明明
+福建文体	,https://cntv.sbs/tv?auth=2309081833&id=fjwt$范明明
+福建少儿	,https://cntv.sbs/tv?auth=2309081833&id=fjse$范明明
+福建旅游	,https://cntv.sbs/tv?auth=2309081833&id=fjly$范明明
+福建经济	,https://cntv.sbs/tv?auth=2309081833&id=fjjj$范明明
+福建公共	,https://cntv.sbs/tv?auth=2309081833&id=fjgg$范明明
+福建教育	,https://cntv.sbs/tv?auth=2309081833&id=fjjy$范明明
 
 浙江,#genre#
 
@@ -786,19 +786,19 @@ CCTV8K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLT
 CCTV1-4K,http://dbiptv.sn.chinamobile.com/PLTV/4/224/3221227896/index.m3u8
 
 BEST TV,#genre#
-看天下精选,https://cntv.sbs/tv?auth=230830&id=ktxjx$超清明明
-华语影院   ,https://cntv.sbs/tv?auth=230830&id=hyyy$超清明明
-电竞天堂   ,https://cntv.sbs/tv?auth=230830&id=djtt$超清明明
-青春动漫   ,https://cntv.sbs/tv?auth=230830&id=qcdm$超清明明
-星光影院   ,https://cntv.sbs/tv?auth=230830&id=xgyy$超清明明
-谍战剧场   ,https://cntv.sbs/tv?auth=230830&id=dzjc$超清明明
-全球大片   ,https://cntv.sbs/tv?auth=230830&id=qqdp$超清明明
-热门剧场   ,https://cntv.sbs/tv?auth=230830&id=rmjc$超清明明
-热门综艺   ,https://cntv.sbs/tv?auth=230830&id=rmzy$超清明明
-戏曲精选   ,https://cntv.sbs/tv?auth=230830&id=xqjx$超清明明
-健康养生   ,https://cntv.sbs/tv?auth=230830&id=jkys$超清明明
-百变课堂   ,https://cntv.sbs/tv?auth=230830&id=bbkt$超清明明
-宝宝动画   ,https://cntv.sbs/tv?auth=230830&id=bbdh$超清明明
+看天下精选,https://cntv.sbs/tv?auth=2309081833&id=ktxjx$超清明明
+华语影院   ,https://cntv.sbs/tv?auth=2309081833&id=hyyy$超清明明
+电竞天堂   ,https://cntv.sbs/tv?auth=2309081833&id=djtt$超清明明
+青春动漫   ,https://cntv.sbs/tv?auth=2309081833&id=qcdm$超清明明
+星光影院   ,https://cntv.sbs/tv?auth=2309081833&id=xgyy$超清明明
+谍战剧场   ,https://cntv.sbs/tv?auth=2309081833&id=dzjc$超清明明
+全球大片   ,https://cntv.sbs/tv?auth=2309081833&id=qqdp$超清明明
+热门剧场   ,https://cntv.sbs/tv?auth=2309081833&id=rmjc$超清明明
+热门综艺   ,https://cntv.sbs/tv?auth=2309081833&id=rmzy$超清明明
+戏曲精选   ,https://cntv.sbs/tv?auth=2309081833&id=xqjx$超清明明
+健康养生   ,https://cntv.sbs/tv?auth=2309081833&id=jkys$超清明明
+百变课堂   ,https://cntv.sbs/tv?auth=2309081833&id=bbkt$超清明明
+宝宝动画   ,https://cntv.sbs/tv?auth=2309081833&id=bbdh$超清明明
 CHC动作电影   ,http://pi.0472.org/tv/cbn.php?id=chcdzdyHD$超清明明
 CHC家庭影院   ,http://pi.0472.org/tv/cbn.php?id=chcjtyyHD$超清明明
 CHC高清电影   ,http://pi.0472.org/tv/cbn.php?id=chcgqdyHD$超清明明
@@ -1128,10 +1128,10 @@ TVB 娱乐,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571188
 @老澳21:32播放,https://vdm6-hwnon.ntnftchain.com/live/2032-2.flv$春盈
 @老澳21:32播放,https://vdm6-ali.kavimmensucat.com/live/2032-2.flv$春盈
 
-华语影院,https://cntv.sbs/tv?auth=230830&id=hyyy$范明明
-中国天气,https://cntv.sbs/tv?auth=230830&id=zgtq$范明明
-莲花卫视,https://cntv.sbs/tv?auth=230830&id=lhws$范明明
-凤凰香港,https://cntv.sbs/tv?auth=230830&id=fhhk$范明明
+华语影院,https://cntv.sbs/tv?auth=2309081833&id=hyyy$范明明
+中国天气,https://cntv.sbs/tv?auth=2309081833&id=zgtq$范明明
+莲花卫视,https://cntv.sbs/tv?auth=2309081833&id=lhws$范明明
+凤凰香港,https://cntv.sbs/tv?auth=2309081833&id=fhhk$范明明
 龙华电影台,https://rjke.eu.org/live/4gtv.php?id=litv-longturn03$范明明
 龙华日韩台,https://rjke.eu.org/live/4gtv.php?id=litv-longturn11$范明明
 靖天电影台,https://rjke.eu.org/live/4gtv.php?id=4gtv-4gtv061$范明明
@@ -1174,7 +1174,7 @@ RTHK33,http://sc2022.stream-link.org/tv2306.php?id=h10$范明明
 
 世界,#genre#
 
-CGTN	,https://cntv.sbs/tv?auth=230830&id=cgtn$范明明
+CGTN	,https://cntv.sbs/tv?auth=2309081833&id=cgtn$范明明
 CGTN记录	,https://livedoc.cgtn.com/500d/prog_index.m3u8$范明明
 CGTN俄语	,https://liveru.cgtn.com/1000r/prog_index.m3u8$范明明
 CGTN法语	,https://livefr.cgtn.com/1000f/prog_index.m3u8$范明明
@@ -1313,14 +1313,14 @@ Nostalgia	,http://51.210.199.20/hls/stream.m3u8$范明明
 
 电影,#genre#
 邵氏影院㊣代,http://maomao.kandiantv.cn/douyu1.php?id=4246519
-华语影院㊣代,https://cntv.sbs/tv?auth=230830&id=hyyy
-华语影院㊣代,https://cntv.sbs/tv?auth=230830&id=hyyy
-星光影院㊣代,https://cntv.sbs/tv?auth=230830&id=xgyy
-谍战剧场㊣代,https://cntv.sbs/tv?auth=230830&id=dzjc
-全球大片㊣代,https://cntv.sbs/tv?auth=230830&id=qqdp
-热门剧场㊣代,https://cntv.sbs/tv?auth=230830&id=rmjc
-戏曲精选㊣代,https://cntv.sbs/tv?auth=230830&id=xqjx
-宝宝动画㊣代,https://cntv.sbs/tv?auth=230830&id=bbdh
+华语影院㊣代,https://cntv.sbs/tv?auth=2309081833&id=hyyy
+华语影院㊣代,https://cntv.sbs/tv?auth=2309081833&id=hyyy
+星光影院㊣代,https://cntv.sbs/tv?auth=2309081833&id=xgyy
+谍战剧场㊣代,https://cntv.sbs/tv?auth=2309081833&id=dzjc
+全球大片㊣代,https://cntv.sbs/tv?auth=2309081833&id=qqdp
+热门剧场㊣代,https://cntv.sbs/tv?auth=2309081833&id=rmjc
+戏曲精选㊣代,https://cntv.sbs/tv?auth=2309081833&id=xqjx
+宝宝动画㊣代,https://cntv.sbs/tv?auth=2309081833&id=bbdh
 中国功夫电影,http://www.51romzj.love:35455/huya/11352941
 中国古装悬疑,http://www.51romzj.love:35455/huya/11352948
 中国现代科幻,http://www.51romzj.love:35455/huya/11352950
