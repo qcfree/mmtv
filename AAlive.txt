@@ -806,6 +806,8 @@ CHC高清电影   ,http://pi.0472.org/tv/cbn.php?id=chcgqdyHD$超清明明
 CHC动作电影	,http://cntv.sbs/tv/cbn.php?id=chcdzdyHD$范明明
 CHC家庭影院	,http://cntv.sbs/tv/cbn.php?id=chcjtyyHD$范明明
 CHC高清电影	,http://cntv.sbs/tv/cbn.php?id=chcgqdyHD$范明明
+
+
 甘肃,#genre#
 甘肃卫视,http://39.134.32.102:6610/270000001111/1110000322/index.m3u8?IASHttpSessionId=OTT
 甘肃文化影视,http://39.134.32.102:6610/270000001111/1110000323/index.m3u8?IASHttpSessionId=OTT
@@ -1340,10 +1342,31 @@ Nostalgia	,http://51.210.199.20/hls/stream.m3u8$范明明
 峨眉电影㊣版,http://183.223.157.33:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 峨眉电影,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227942/index.m3u8$联通
 峨眉电影,http://182.136.139.230:4022/udp/239.93.0.252:5140
+峨眉影视,http://183.223.157.33:9901/tsfile/live/1006_1.m3u8
 红色影院㊣版,http://zhuji.sdrnwl.cn:9901/tsfile/live/1067_1.m3u8
 广州影院㊣版,https://justsometime.gztv.com/sec/yingshi.m3u8
 央视66台㊣版,http://8.210.232.168/php/1905.php?id=cctv6
 央视66台㊣版,http://111.40.196.31:443/PLTV/88888888/224/3221225590/1.m3u8
+
+IPTV淘剧场,http://222.128.98.255:4000/rtp/239.3.1.95:8001
+IPTV淘电影,http://222.128.98.255:4000/rtp/239.3.1.250:8001
+IPTV淘娱乐,http://222.128.98.255:4000/rtp/239.3.1.100:8001
+IPTV淘BABY,http://222.128.98.255:4000/rtp/239.3.1.238:8001
+
+CHC高清电影,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
+CHC高清电影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
+CHC高清电影,http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f//index.m3u8
+
+CHC动作电影,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
+CHC动作电影,http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f//index.m3u8
+CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
+
+CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
+CHC家庭影院,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
+CHC家庭影院,http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8
+
+
+
 CHC家庭影院,http://8.210.232.168/php/migu.php?id=chcjtyy
 CHC家庭影院,http://zhuji.sdrnwl.cn:9901/tsfile/live/1059_1.m3u8
 CHC家庭影院,http://120.8.135.70:10010/hls/96/index.m3u8
@@ -1352,13 +1375,16 @@ CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
 CHC高清电影,http://zhuji.sdrnwl.cn:9901/tsfile/live/1058_1.m3u8
 CHC高清电影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
 CHC高清电影,http://120.204.20.48/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43063/index.m3u8
+
 CHC动作电影,http://zhuji.sdrnwl.cn:9901/tsfile/live/1060_1.m3u8
 CHC动作电影,http://120.8.135.70:10010/hls/98/index.m3u8
 CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
 CHC动作电影,http://111.20.40.166/PLTV/88888893/224/3221226465/index.m3u8
+
 CHC高清电影,http://120.8.135.70:10010/hls/97/index.m3u8
 CHC高清电影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
 CHC高清电影,http://111.20.40.166/PLTV/88888893/224/3221226463/index.m3u8
+
 萌小鬼片✔原,http://maomao.kandiantv.cn/douyu1.php?id=3928
 神乐影院✔原,http://maomao.kandiantv.cn/douyu1.php?id=122402
 可乐影院✔原,http://maomao.kandiantv.cn/douyu1.php?id=20415
