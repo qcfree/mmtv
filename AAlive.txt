@@ -329,6 +329,11 @@ CCTV世界地理 ,http://yzfvip.top:8002/rtp/239.253.43.7:5146$超清电01
 CCTV电视指南 ,http://yzfvip.top:8002/rtp/239.253.43.10:5146$超清电1
 CCTV电视指南 ,http://yzfvip.top:8002/rtp/239.253.43.19:5146$超清电01
 
+华数电视剧,http://39.134.32.102:6610/270000001111/1110000333/index.m3u8?IASHttpSessionId=OTT
+法制高清,http://39.134.32.102:6610/270000001111/1110000334/index.m3u8?IASHttpSessionId=OTT
+综艺高清,http://39.134.32.102:6610/270000001111/1110000335/index.m3u8?IASHttpSessionId=OTT
+科学动物园,http://39.134.32.102:6610/270000001111/1110000336/index.m3u8?IASHttpSessionId=OTT
+
 书画频道 ,http://211.103.180.178:8234/live_hls/hdmi.m3u8
 
 中央新影老故事 ,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8?
@@ -643,9 +648,11 @@ CETV4	,https://cntv.sbs/tv?auth=2309081833&id=cetv4$范明明
 
 清华大学电视台,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 
+三沙卫视,http://39.134.32.102:6610/270000001111/1110000392/index.m3u8?IASHttpSessionId=OTT$秒播
 三沙卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=1453_4500
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8$高清
 三沙卫视,https://cntv.sbs/tv?auth=2309081833&id=ssws$超清明明
+
 
 北京卫视	,https://cntv.sbs/tv?auth=2309081833&id=bjws$范明明
 东方卫视	,https://cntv.sbs/tv?auth=2309081833&id=dfws$范明明
