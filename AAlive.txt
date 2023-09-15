@@ -1336,7 +1336,11 @@ Nostalgia	,http://51.210.199.20/hls/stream.m3u8$范明明
 中国现代谍战,http://www.51romzj.love:35455/huya/11352965
 中国古装战争,http://www.51romzj.love:35455/huya/11352973
 凌儿影院㊣版,http://maomao.kandiantv.cn/douyu1.php?id=1377142
+龙华电影,https://pull-l3-activity.ixigua.com/live/stream-7c4301f3ec1b9c970db0af9d1c07e66f.m3u8
+美亚电影香港,https://pull-l3-activity.ixigua.com/live/stream-b16e0049bdda5f54e62d3c9b694d81ff.m3u8
+黑莓电影,http://111.40.196.32:443/PLTV/88888888/224/3221225610/1.m3u8
 1905电影㊣版,http://8.210.232.168/php/1905.php?id=1905dy
+1905电影㊣版,http://zgntv.icu/live/1905.php?id=1905dy
 1905电影㊣版,http://zgntv.icu/live/1905.php?id=1905dy
 1905电影㊣版,http://120.78.165.185:4789/1905.php?id=1905dy
 东森电影㊣版,http://162.19.247.76:22222/live/dsdyt/index.m3u8
