@@ -1,3 +1,7 @@
+🇨🇳||德阳,#genre#
+德阳新闻综合,http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8?zsicd
+德阳公共,http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8?zsicd
+
 🇨🇳||央视频道,#genre#
 
 CCTV-1 ,https://cntv.sbs/tv?auth=2309081833&id=cctv1$超清范明明
